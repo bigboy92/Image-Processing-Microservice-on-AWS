@@ -22,3 +22,9 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## Github Link
+https://github.com/bigboy92/Image-Processing-Microservice-on-AWS
+
+## Elastic Beanstalk endpoint
+http://processimageproject-env.eba-kzy7upwi.us-east-1.elasticbeanstalk.com/
